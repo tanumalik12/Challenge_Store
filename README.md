@@ -28,9 +28,13 @@ Form Validations ✅
 📂 Project Structure
 store-rating-platform/
 │── backend/                 # Backend code
+
 │── frontend/                # React.js frontend
+
 │── database/                # SQL schema & seed data
+
 │── README.md  
+
 │── package.json  
 │── .env.example  
 
