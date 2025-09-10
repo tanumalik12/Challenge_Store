@@ -27,6 +27,8 @@ Form Validations ✅
 
 📂 Project Structure
 store-rating-platform/
+
+
 │── backend/                 # Backend code
 
 │── frontend/                # React.js frontend
@@ -35,7 +37,8 @@ store-rating-platform/
 
 │── README.md  
 
-│── package.json  
+│── package.json 
+
 │── .env.example  
 
 🔹 Backend Setup
